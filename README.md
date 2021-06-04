@@ -13,3 +13,15 @@ yarn build
 ```
 
 to bundle your application
+
+To run webpack type:
+
+```
+npm run serve
+```
+
+To run extract script:
+
+```
+node ./extact.js
+```
