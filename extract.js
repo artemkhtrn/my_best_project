@@ -5,7 +5,7 @@ const { response } = require("express");
 const fs = require("fs");
 
 const url =
-  "https://russian.rt.com/world/article/869547-otzyv-daniya-polsha-baltic-pipe";
+  "https://russian.rt.com/russia/article/868201-gosduma-it-kompanii-google";
 
 var log;
 axios
